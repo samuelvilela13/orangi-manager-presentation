@@ -19,6 +19,9 @@ PARCERIAS:
  -Json unificado para todas as integrações
  -Integração e homologação de iFood
  -Nota fiscal reformulada
+ 
+ PARCERIAS:
+  Nenhuma
 
  ETAPAS FUTURAS:
  Integração com Kargolog.app (Aplicativo para motoboys)
