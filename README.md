@@ -1,6 +1,8 @@
 # orangi-manager-presentation
 Apresentação do gestor de pedidos Orangi / Presentation of the manager Orangi
 
+LINK DO CÓDIGO: https://github.com/samuelvilela13/gestor-orangi
+
 ETAPA 1:
  Gestor de pedidos para restaurantes
  Impressão de pedidos
@@ -11,10 +13,16 @@ ETAPA 1:
 
 PARCERIAS: 
  Antônio Paz https://github.com/AntonioDjou https://www.linkedin.com/in/antoniopaz-dev/
+ 
+ ETAPA 2:
+ *EM CONSTRUÇÃO
+ -Json unificado para todas as integrações
+ -Integração e homologação de iFood
+ -Nota fiscal reformulada
 
  ETAPAS FUTURAS:
  Integração com Kargolog.app (Aplicativo para motoboys)
- Integração Apps Delivery (iFoods, AiqFome, etc...)
+ Integração Apps Delivery (iFood, AiqFome, etc...)
  Monitor de produção (KDS)
  Roterizador de entregas (Integrado a Kargolog)
  Integração Easy (Site do restaurante)
